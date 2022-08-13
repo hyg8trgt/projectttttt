@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+    font-size: medium;
+    color: rgb(202, 117, 13);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.header{
+   background-color: crimson; 
+   font-size: 40px;
+}
+
+#camera{
+    border-width: 3px;
+    border-style: solid;
+}
+body{
+    background-color:yellowgreen;
+}
